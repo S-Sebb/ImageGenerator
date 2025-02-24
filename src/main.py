@@ -9,7 +9,7 @@ from pathlib import Path
 import pollinations  # Ensure pollinations module is installed
 
 # File where history is stored
-HISTORY_FILE = "../prompt_history.txt"
+HISTORY_FILE = "prompt_history.txt"
 
 
 def load_history():
